@@ -12,3 +12,13 @@
     }
   }
 }
+{
+  "expo": {
+    "name": "Bhakti Se Moksh Tak",
+    "slug": "bhakti-se-moksh-tak",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.yourname.bhaktisemoksh"
+    }
+  }
+}
